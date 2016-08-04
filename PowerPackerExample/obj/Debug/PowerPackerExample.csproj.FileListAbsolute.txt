@@ -1,0 +1,9 @@
+c:\users\joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\bin\Debug\PowerPackerExample.exe.config
+c:\users\joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\bin\Debug\PowerPacker32.dll
+c:\users\joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\bin\Debug\PowerPackerExample.exe
+c:\users\joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\bin\Debug\PowerPackerExample.pdb
+c:\users\joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\obj\Debug\PowerPackerExample.Form1.resources
+c:\users\joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\obj\Debug\PowerPackerExample.Properties.Resources.resources
+c:\users\joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\obj\Debug\PowerPackerExample.csproj.GenerateResource.Cache
+c:\users\joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\obj\Debug\PowerPackerExample.exe
+c:\users\joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\obj\Debug\PowerPackerExample.pdb

@@ -1,0 +1,10 @@
+C:\Users\Joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\bin\Release\PowerPackerExample.exe.config
+C:\Users\Joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\bin\Release\PowerPacker32.dll
+C:\Users\Joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\bin\Release\PowerPackerExample.exe
+C:\Users\Joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\bin\Release\PowerPackerExample.pdb
+C:\Users\Joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\obj\Release\PowerPackerExample.Form1.resources
+C:\Users\Joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\obj\Release\PowerPackerExample.Properties.Resources.resources
+C:\Users\Joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\obj\Release\PowerPackerExample.csproj.GenerateResource.Cache
+C:\Users\Joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\obj\Release\PowerPackerExample.exe
+C:\Users\Joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\obj\Release\PowerPackerExample.pdb
+C:\Users\Joe\documents\visual studio 2015\Projects\PowerPackerExample\PowerPackerExample\obj\Release\PowerPackerExample.frmAbout.resources
