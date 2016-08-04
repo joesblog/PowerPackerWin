@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  PowerPacker.cpp
+c:\users\joe\documents\visual studio 2015\projects\powerpacker32\powerpacker32\powerpacker.cpp(74): warning C4018: '>': signed/unsigned mismatch
+c:\users\joe\documents\visual studio 2015\projects\powerpacker32\powerpacker32\powerpacker.cpp(113): warning C4018: '>': signed/unsigned mismatch
+c:\users\joe\documents\visual studio 2015\projects\powerpacker32\powerpacker32\powerpacker.cpp(132): warning C4018: '>': signed/unsigned mismatch
+  PowerPacker32.cpp
+  Generating Code...
+     Creating library C:\Users\Joe\Documents\Visual Studio 2015\Projects\PowerPacker32\Debug\PowerPacker32.lib and object C:\Users\Joe\Documents\Visual Studio 2015\Projects\PowerPacker32\Debug\PowerPacker32.exp
+  PowerPacker32.vcxproj -> C:\Users\Joe\Documents\Visual Studio 2015\Projects\PowerPacker32\Debug\PowerPacker32.dll
+  PowerPacker32.vcxproj -> C:\Users\Joe\Documents\Visual Studio 2015\Projects\PowerPacker32\Debug\PowerPacker32.pdb (Full PDB)
