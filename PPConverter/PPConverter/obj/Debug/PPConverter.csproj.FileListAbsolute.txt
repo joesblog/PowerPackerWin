@@ -1,0 +1,7 @@
+D:\GitHub\PowerPackerWin\PPConverter\PPConverter\bin\Debug\PowerPacker32.dll
+D:\GitHub\PowerPackerWin\PPConverter\PPConverter\bin\Debug\PPConverter.exe
+D:\GitHub\PowerPackerWin\PPConverter\PPConverter\bin\Debug\PPConverter.pdb
+D:\GitHub\PowerPackerWin\PPConverter\PPConverter\obj\Debug\PPConverter.csprojAssemblyReference.cache
+D:\GitHub\PowerPackerWin\PPConverter\PPConverter\obj\Debug\PPConverter.csproj.CoreCompileInputs.cache
+D:\GitHub\PowerPackerWin\PPConverter\PPConverter\obj\Debug\PPConverter.exe
+D:\GitHub\PowerPackerWin\PPConverter\PPConverter\obj\Debug\PPConverter.pdb
