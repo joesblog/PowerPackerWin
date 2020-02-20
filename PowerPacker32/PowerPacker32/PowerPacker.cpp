@@ -150,7 +150,7 @@ void CPowerPacker::UnPowerpack()
 
 void CPowerPacker::LoadBuffer(const unsigned char *pData, const ulong nSize)
 {
-	/*
+	
 	::memcpy(m_Meta.meta, pData, 4);
 
 	if (m_Meta.IsSupportedFiletype() == false)
@@ -188,7 +188,7 @@ void CPowerPacker::LoadBuffer(const unsigned char *pData, const ulong nSize)
 	{
 		throw PPException("failed to allocate memory for output");
 	}
-	*/
+	
 }
 
 void CPowerPacker::Load(const char *szInputFile)

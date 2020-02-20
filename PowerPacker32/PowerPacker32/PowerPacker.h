@@ -441,6 +441,14 @@ public:
 		return true;
 	}
 
+
+	//Unpack in memory
+	bool UnPackString(const char* inp, const char* outp)
+	{
+	
+	}
+	
+
 	// save unpacked data to specified file
 	bool SaveToFile(const char *szOutputFile)
 	{

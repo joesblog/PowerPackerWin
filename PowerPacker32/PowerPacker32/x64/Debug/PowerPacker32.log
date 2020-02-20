@@ -1,23 +1,23 @@
 ﻿  stdafx.cpp
   dllmain.cpp
   PowerPacker.cpp
-D:\GitHub\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.h(98): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
-D:\GitHub\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.h(104): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
-D:\GitHub\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.cpp(219): warning C4267: '=': conversion from 'size_t' to 'ulong', possible loss of data
-D:\GitHub\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.cpp(287): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\GitHub\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.cpp(289): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
-D:\GitHub\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.cpp(290): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(90): note: see declaration of 'strcat'
+D:\Dev\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.h(98,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+D:\Dev\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.h(104,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+D:\Dev\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.cpp(219,42): warning C4267:  '=': conversion from 'size_t' to 'ulong', possible loss of data
+D:\Dev\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.cpp(287,33): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Dev\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.cpp(289,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+D:\Dev\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.cpp(290,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   PowerPacker32.cpp
-D:\GitHub\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.h(98): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
-D:\GitHub\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.h(104): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
-D:\GitHub\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker32.cpp(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+D:\Dev\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.h(98,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+D:\Dev\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker.h(104,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+D:\Dev\PowerPackerWin\PowerPacker32\PowerPacker32\PowerPacker32.cpp(30,2): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   Generating Code...
-     Creating library D:\GitHub\PowerPackerWin\PowerPacker32\x64\Debug\PowerPacker32.lib and object D:\GitHub\PowerPackerWin\PowerPacker32\x64\Debug\PowerPacker32.exp
-  PowerPacker32.vcxproj -> D:\GitHub\PowerPackerWin\PowerPacker32\x64\Debug\PowerPacker32.dll
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+     Creating library D:\Dev\PowerPackerWin\PowerPacker32\x64\Debug\PowerPacker32.lib and object D:\Dev\PowerPackerWin\PowerPacker32\x64\Debug\PowerPacker32.exp
+  PowerPacker32.vcxproj -> D:\Dev\PowerPackerWin\PowerPacker32\x64\Debug\PowerPacker32.dll
