@@ -9,6 +9,4 @@ The second folder is PowerPackerExample, this contains a c# example of the DLL i
 
 The third folder called 'Release' contains a .net4 build of a viewer/converter that is built version of the above example.
 
->It's a bit buggy as I'm not accustomed to writing dll exports for c#, so any problems/soluions please don't hesitate to contact!
-
 joe@joesblog.me.uk
